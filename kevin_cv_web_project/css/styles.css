@@ -276,9 +276,12 @@ ul {
   width: 100%;
   max-width: none;
   margin: 0;
-  font-size: clamp(2.85rem, 5vw, 4.9rem);
-  line-height: 0.92;
-  letter-spacing: -0.05em;
+  font-size: clamp(1.9rem, 3.5vw, 3.4rem);
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+  color: #2619e4;
+  -webkit-text-fill-color: #ffffff;
+  background: none;
 }
 
 .hero-lead .highlight {
@@ -294,7 +297,10 @@ ul {
 }
 
 .hero-title span {
-  color: #31d2ff;
+  color: #f5c518;
+  -webkit-text-fill-color: #f5c518;
+  background: none;
+  font-style: normal;
 }
 
 .hero-image-block {
@@ -875,7 +881,9 @@ ul {
   }
 
   .hero-title {
-    font-size: clamp(2.45rem, 4.9vw, 4.3rem);
+    font-size: clamp(1.8rem, 6vw, 3rem);
+    color: #283ebb;
+    -webkit-text-fill-color: #2c63ca;
   }
 
   .hero-photo-card {
