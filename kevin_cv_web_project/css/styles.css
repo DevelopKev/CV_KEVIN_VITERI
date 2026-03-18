@@ -280,7 +280,7 @@ ul {
   line-height: 1.15;
   letter-spacing: -0.03em;
   color: #2619e4;
-  -webkit-text-fill-color: #ffffff;
+  -webkit-text-fill-color: #2825d4;
   background: none;
 }
 
@@ -297,8 +297,8 @@ ul {
 }
 
 .hero-title span {
-  color: #f5c518;
-  -webkit-text-fill-color: #f5c518;
+  color: #5883a7;
+  -webkit-text-fill-color: #31d2ff;
   background: none;
   font-style: normal;
 }
